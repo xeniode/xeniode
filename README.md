@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<a href="https://app.daily.dev/manticthread"><img src="https://api.daily.dev/devcards/v2/EVoZmKDttD0jUKpEHC9Bl.png?type=wide&r=3k0" width="652" alt="Mantic Thread's Dev Card"/></a>
 
 <!--
 **xeniode/xeniode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
